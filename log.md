@@ -31,6 +31,7 @@ Day 6: Jan. 8th 2017
 Today's Progress: Continued to play around with creating pictures with pure CSS. Read chapter 2 in You Don't Know JS Up and Going. Still unable to add working Twitter button to my Random Quote Machine.
 
 Thoughts: Still having trouble understanding the Parent/child inheritance in CSS. Link to work: CSS pictures
+
 Day 7 and 8: Jan. 9th and 10th 2017
 
 Today's Progress: 
@@ -39,4 +40,16 @@ I have been working on the #dailycssimages challenege along with the 100DayOfCod
 Thoughts: struggled a little the first day but today I am understanding inheritance and positions in CSS so much more. I am really excited and enjoying this challenege.
 
 Link to Work:http://codepen.io/cgorton/pen/XpbxXe
+http://codepen.io/cgorton/pen/jyWBEp
+
+Day 9: Jan. 11th 2017
+
+Today's Progress: 
+I have been working on the #dailycssimages challenege along with the 100DayOfCode challenege.
+Today I began learning SCSS and Sass. 
+
+Thoughts: 
+I made a slightly more complex image this time and have learned a number of CSS tricks.
+
+Link to Work:http://codepen.io/cgorton/pen/jyWJPV
 http://codepen.io/cgorton/pen/jyWBEp
