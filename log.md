@@ -53,3 +53,11 @@ I made a slightly more complex image this time and have learned a number of CSS 
 
 Link to Work:http://codepen.io/cgorton/pen/jyWJPV
 http://codepen.io/cgorton/pen/jyWBEp
+
+Day 10&11: Jan. 12-13th 2017
+
+Today's Progress: I have been working on the #dailycssimages challenege along with the 100DayOfCode challenege. One of my pictures was featured in the #dailycssimages collection on Codepen.io
+
+Thoughts: I would like to start learning more about SVG so I can add more details and better graphis to my pictures.
+
+Link to Work:http://codepen.io/cgorton/pen/xgOPBy http://codepen.io/cgorton/pen/dNXJdo
