@@ -61,3 +61,10 @@ Today's Progress: I have been working on the #dailycssimages challenege along wi
 Thoughts: I would like to start learning more about SVG so I can add more details and better graphis to my pictures.
 
 Link to Work:http://codepen.io/cgorton/pen/xgOPBy http://codepen.io/cgorton/pen/dNXJdo
+
+Day 12: Jan. 14th 2017
+
+Today's Progress: slight computer problems. Worked with Gretchen at freeCodeCamp meetup to better understand GitHub pull requests and merging. Also learned how to use Google Hangouts.
+Thoughts: Need to start Udemy course on Git and GitHub soon.
+
+Link to Work:https://github.com/cmgorton/pricklyPearTest
