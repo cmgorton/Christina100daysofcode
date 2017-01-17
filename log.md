@@ -35,7 +35,7 @@ Thoughts: Still having trouble understanding the Parent/child inheritance in CSS
 Day 7 and 8: Jan. 9th and 10th 2017
 
 Today's Progress: 
-I have been working on the #dailycssimages challenege along with the 100DayOfCode challenege.
+I have been working on the #dailycssimages challenege along with the 100DayOfCode challenge.
 
 Thoughts: struggled a little the first day but today I am understanding inheritance and positions in CSS so much more. I am really excited and enjoying this challenege.
 
@@ -45,7 +45,7 @@ http://codepen.io/cgorton/pen/jyWBEp
 Day 9: Jan. 11th 2017
 
 Today's Progress: 
-I have been working on the #dailycssimages challenege along with the 100DayOfCode challenege.
+I have been working on the #dailycssimages challenege along with the 100DayOfCode challenge.
 Today I began learning SCSS and Sass. 
 
 Thoughts: 
@@ -56,7 +56,7 @@ http://codepen.io/cgorton/pen/jyWBEp
 
 Day 10&11: Jan. 12-13th 2017
 
-Today's Progress: I have been working on the #dailycssimages challenege along with the 100DayOfCode challenege. One of my pictures was featured in the #dailycssimages collection on Codepen.io
+Today's Progress: I have been working on the #dailycssimages challenege along with the 100DayOfCode challenge. One of my pictures was featured in the #dailycssimages collection on Codepen.io
 
 Thoughts: I would like to start learning more about SVG so I can add more details and better graphis to my pictures.
 
@@ -68,3 +68,11 @@ Today's Progress: slight computer problems. Worked with Gretchen at freeCodeCamp
 Thoughts: Need to start Udemy course on Git and GitHub soon.
 
 Link to Work:https://github.com/cmgorton/pricklyPearTest
+
+Day 14: Jan. 16th 2017
+
+Today's Progress: Worked on day 6 of DailyCSSimages challenge. Tried my first CSS animation. 
+Thoughts: Need to take the time to better understand CSS3 animation properties.
+
+Link to Work:http://codepen.io/cgorton/details/apmMmJ/
+
