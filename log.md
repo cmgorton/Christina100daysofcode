@@ -65,6 +65,7 @@ Link to Work:http://codepen.io/cgorton/pen/xgOPBy http://codepen.io/cgorton/pen/
 Day 12: Jan. 14th 2017
 
 Today's Progress: slight computer problems. Worked with Gretchen at freeCodeCamp meetup to better understand GitHub pull requests and merging. Also learned how to use Google Hangouts.
+
 Thoughts: Need to start Udemy course on Git and GitHub soon.
 
 Link to Work:https://github.com/cmgorton/pricklyPearTest
@@ -72,7 +73,15 @@ Link to Work:https://github.com/cmgorton/pricklyPearTest
 Day 14: Jan. 16th 2017
 
 Today's Progress: Worked on day 6 of DailyCSSimages challenge. Tried my first CSS animation. 
+
 Thoughts: Need to take the time to better understand CSS3 animation properties.
 
 Link to Work:http://codepen.io/cgorton/details/apmMmJ/
+
+Day 15: Jan. 18th 2017
+
+Today's Progress: Worked on day 7 and 8 of DailyCSSimages challenge. Learned some more CSS animation. 
+Thoughts: Really enjoying the how creative I can be with CSS3.
+
+Link to Work:http://codepen.io/cgorton/pen/EZZaqO
 
