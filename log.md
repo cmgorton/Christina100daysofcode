@@ -85,3 +85,9 @@ Thoughts: Really enjoying the how creative I can be with CSS3.
 
 Link to Work:http://codepen.io/cgorton/pen/EZZaqO
 
+Day 19: Jan. 22th 2017
+
+Today's Progress:Had some fun creating another random quote machine utilizing some of the things I have learned about CSS images.
+Thoughts: Would like to add somemore complexity to the pen.
+Link to Work:http://codepen.io/cgorton/pen/VPbdvV
+
