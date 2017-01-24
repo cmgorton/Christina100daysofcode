@@ -91,3 +91,9 @@ Today's Progress:Had some fun creating another random quote machine utilizing so
 Thoughts: Would like to add somemore complexity to the pen.
 Link to Work:http://codepen.io/cgorton/pen/VPbdvV
 
+Day 21: Jan. 24th 2017
+
+Today's Progress: Took the last two days off from dailycssimages to learn more about CSS animations, SASS, and using Git Bash. I am taking courses on Lynda.com adn they have been very helpful. Still working on the Pizza image.
+
+Link to Work:http://codepen.io/cgorton/pen/xgrGyy
+
