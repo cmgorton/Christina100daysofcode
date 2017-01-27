@@ -97,3 +97,9 @@ Today's Progress: Took the last two days off from dailycssimages to learn more a
 
 Link to Work:http://codepen.io/cgorton/pen/xgrGyy
 
+Day 23: Jan. 26th 2017
+
+Today's Progress: completed 3 courses on Lynda.com so far. Really enjoying these courses and learning a lot of great information.
+
+Link to Work:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx
+
