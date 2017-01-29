@@ -103,3 +103,11 @@ Today's Progress: completed 3 courses on Lynda.com so far. Really enjoying these
 
 Link to Work:https://www.lynda.com/home/CertificateOfCompletion/CertificationStatus.aspx
 
+Day 25: Jan. 28th 2017
+
+Today's Progress: downloaded Ruby and Jekyll and began generating my first static site with Jekyll. Using the lynda.com course Jekyll for web designers.
+
+Thoughts: the terminal is still intimidating and I wanted to give up a lot when I kept running into errors but I am gladd I kept trying different things until I succeeded. 
+Link to Work:https://twitter.com/coffeecraftcode/status/825548843970416640
+https://twitter.com/coffeecraftcode/status/825522903307448320
+
