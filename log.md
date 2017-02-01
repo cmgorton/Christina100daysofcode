@@ -111,3 +111,14 @@ Thoughts: the terminal is still intimidating and I wanted to give up a lot when 
 Link to Work:https://twitter.com/coffeecraftcode/status/825548843970416640
 https://twitter.com/coffeecraftcode/status/825522903307448320
 
+Day 28: Jan. 31st 2017
+
+Today's Progress: Been back to working on #dailycssimages. Completed Frankenstein and Zombie. Finally used animations correctly for both images. 
+
+Thoughts: happy I took the tim eto better learn CSS transitions and transforms and am now using them with my images. 
+
+Link to Work:http://codepen.io/cgorton/pen/PWEJqK
+http://codepen.io/cgorton/pen/egVVvx
+
+
+
