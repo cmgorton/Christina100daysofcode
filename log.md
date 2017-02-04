@@ -115,10 +115,19 @@ Day 28: Jan. 31st 2017
 
 Today's Progress: Been back to working on #dailycssimages. Completed Frankenstein and Zombie. Finally used animations correctly for both images. 
 
-Thoughts: happy I took the tim eto better learn CSS transitions and transforms and am now using them with my images. 
+Thoughts: happy I took the time to better learn CSS transitions and transforms and am now using them with my images. 
 
 Link to Work:http://codepen.io/cgorton/pen/PWEJqK
 http://codepen.io/cgorton/pen/egVVvx
+
+Day 31: Feb. 3rd 2017
+
+Today's Progress: Been working more on CSS3 animations. Completed more projects for #dailycssimages. Completed my goal ofhaving one of my pens featured on CodePen.io.
+
+Thoughts: feeling really motivated to keep digging deeper and learning more about animation and motion in web development.
+
+link to work: My featured pen:http://codepen.io/cgorton/pen/vgRovw
+
 
 
 
