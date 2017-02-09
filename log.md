@@ -122,11 +122,18 @@ http://codepen.io/cgorton/pen/egVVvx
 
 Day 31: Feb. 3rd 2017
 
-Today's Progress: Been working more on CSS3 animations. Completed more projects for #dailycssimages. Completed my goal ofhaving one of my pens featured on CodePen.io.
+Today's Progress: Been working more on CSS3 animations. Completed more projects for #dailycssimages. Completed my goal of having one of my pens featured on CodePen.io.
 
 Thoughts: feeling really motivated to keep digging deeper and learning more about animation and motion in web development.
 
 link to work: My featured pen:http://codepen.io/cgorton/pen/vgRovw
+
+Day 36: Feb. 8rd 2017
+
+Today's Progress: still working more on CSS3 animations. Completed more projects for #dailycssimages. Taking another course on animations. 
+
+Thoughts: Really starting to look at web design and UI/UX as a career option.
+link to work: http://codepen.io/cgorton/pen/ZLjBYL http://codepen.io/cgorton/pen/vgjVVN http://codepen.io/cgorton/pen/NdBooR http://codepen.io/cgorton/pen/egLwQL
 
 
 
