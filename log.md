@@ -135,6 +135,11 @@ Today's Progress: still working more on CSS3 animations. Completed more projects
 Thoughts: Really starting to look at web design and UI/UX as a career option.
 link to work: http://codepen.io/cgorton/pen/ZLjBYL http://codepen.io/cgorton/pen/vgjVVN http://codepen.io/cgorton/pen/NdBooR http://codepen.io/cgorton/pen/egLwQL
 
+Day 44: Feb. 16rd 2017
+
+Today's Progress: Falling behind on my GitHub updates. Stopped #dailycssimages for now so I can focus on Javascript. Today I finally figured out GitHub pages and sent my first pull request for an open source project.  
+
+link to work:https://github.com/codetteclub/first-portfolios
 
 
 
