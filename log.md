@@ -141,5 +141,11 @@ Today's Progress: Falling behind on my GitHub updates. Stopped #dailycssimages f
 
 link to work:https://github.com/codetteclub/first-portfolios
 
+Day 51: Feb. 23rd 2017
+
+Today's Progress: Finally finished Basic JavaScript challenges on freeCodeCamp and am now on the basic algorithms section. Had another pen on CodePen featured. 
+
+Thoughts: Still feel like I do not understand JavaScript well. I need to find a practical use for what I have learned to better undersatnd. Looking into using Vue.js.
+link to work:http://codepen.io/cgorton/pen/xgvZLO
 
 
