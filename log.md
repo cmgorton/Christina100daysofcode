@@ -148,4 +148,8 @@ Today's Progress: Finally finished Basic JavaScript challenges on freeCodeCamp a
 Thoughts: Still feel like I do not understand JavaScript well. I need to find a practical use for what I have learned to better undersatnd. Looking into using Vue.js.
 link to work:http://codepen.io/cgorton/pen/xgvZLO
 
+Day 56: Feb. 28th 2017
 
+Today's Progress: Worked on Daily CSS Images day 38.
+
+link to work:http://codepen.io/cgorton/pen/NpGaqg?editors=1100
