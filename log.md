@@ -153,3 +153,9 @@ Day 56: Feb. 28th 2017
 Today's Progress: Worked on Daily CSS Images day 38.
 
 link to work:http://codepen.io/cgorton/pen/NpGaqg?editors=1100
+
+Day 61: Mar. 5th, 2017
+
+Today's Progress: Worked on Daily CSS Images cheesecake. Still planning out Aaron's business page. Completed Codecademy's deploying a website challenge.
+
+link to work:http://codepen.io/cgorton/pen/VpaMJL?editors=1100
