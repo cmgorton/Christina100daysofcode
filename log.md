@@ -159,3 +159,12 @@ Day 61: Mar. 5th, 2017
 Today's Progress: Worked on Daily CSS Images cheesecake. Still planning out Aaron's business page. Completed Codecademy's deploying a website challenge.
 
 link to work:http://codepen.io/cgorton/pen/VpaMJL?editors=1100
+
+Day 62: Mar. 6th, 2017
+
+Today's Progress: Started a new challenge for my self. I am calling it Weekly CSS painting. I am taking a famous painting each week and trying to recreate it in CSS. I will blog about it along the way. The first painting I chose was The Son of Man by Rene Magritte. I used a lot of advanced CSS gradient techniques.
+
+Thoughts: I am really excited about this new challenge. I think it will help me dive deeper into advanced css properties. 
+
+link to work:
+
