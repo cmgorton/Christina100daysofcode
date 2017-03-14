@@ -166,5 +166,12 @@ Today's Progress: Started a new challenge for my self. I am calling it Weekly CS
 
 Thoughts: I am really excited about this new challenge. I think it will help me dive deeper into advanced css properties. 
 
-link to work:
+link to work: http://codepen.io/cgorton/pen/EWgoYq
+
+Day 69: Mar. 13th, 2017
+
+Today's Progress: working on Aaron's business page.
+Thoughts: need to read up on responsive web design.  Like to figure out useful places to add animation.
+link to work:http://codepen.io/cgorton/pen/d15e27b0548669a250e755d2ee6ce69a
+
 
