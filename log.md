@@ -171,7 +171,20 @@ link to work: http://codepen.io/cgorton/pen/EWgoYq
 Day 69: Mar. 13th, 2017
 
 Today's Progress: working on Aaron's business page.
+
 Thoughts: need to read up on responsive web design.  Like to figure out useful places to add animation.
+
 link to work:http://codepen.io/cgorton/pen/d15e27b0548669a250e755d2ee6ce69a
+
+Day 77: Mar. 21st, 2017
+
+Today's Progress: working on 2nd #weeklyCSSpainting. 
+
+Accomplishment:My first #weeklyCSSdrawing was mentions in the CodePen Spark. link: http://codepen.io/spark/16
+
+Thoughts:feeling motivated to keep going as the coding community has been really encouraging.
+
+link to work:http://codepen.io/cgorton/pen/a353e0de2d9474b5327e827bb70e2622?editors=0100
+
 
 
