@@ -186,5 +186,11 @@ Thoughts:feeling motivated to keep going as the coding community has been really
 
 link to work:http://codepen.io/cgorton/pen/a353e0de2d9474b5327e827bb70e2622?editors=0100
 
+Day 78- 92: Mar. 22st- Apr. 5, 2017
 
+Today's Progress:Been busy learning CSS grid, SVG's and Vue.js. Submitted my first talk proposal to CSSDevConf which is now in voting sessions. Working on Splash-bot page for Chingu Cohort.
+
+Thought: So much I want to learn but I need to focus in on one thing at a time if I don't want to get overwhelmed. 
+
+link to work:https://twitter.com/coffeecraftcode/status/849453118505050112
 
