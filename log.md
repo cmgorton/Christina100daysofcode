@@ -193,9 +193,18 @@ Today's Progress:Been busy learning CSS grid, SVG's and Vue.js. Submitted my fir
 Thought: So much I want to learn but I need to focus in on one thing at a time if I don't want to get overwhelmed. 
 
 link to work:https://twitter.com/coffeecraftcode/status/849453118505050112
+
 Day 97: Apr. 10th, 2017
 
 Today's Progress:created more Pens to learn CSS grid. Really enjoying creative coding. I am starting to learn HTML5 Canvas and am excited to start a game in Canvas. 
 
 link to work:http://codepen.io/cgorton/pen/NpZJBV, http://codepen.io/cgorton/pen/wJLOxO
+
+Day 99: Apr. 12th, 2017
+
+Today's Progress:Finishing up trying to learn Phaser.js, HTML5 Canvas, and Vue.js. Working on Game Dev project and Splash-bot page for chingu cohort. 
+
+link to work:http://codepen.io/cgorton/pen/bWbZKK
+
+
 
